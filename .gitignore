@@ -1,0 +1,5 @@
+prep.txt
+venv/
+.idea/
+res_orig/
+res_converted/
